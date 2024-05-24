@@ -27,15 +27,15 @@
                     </div>
                     <div class="p-4">
                         <div class="flex flex-col gap-4">
-                            <div class="text-[#202020] text-xs font-semibold">VIEWS&nbsp;&amp;&nbsp;EVENTS</div>
+                            <div class="text-[#202020] text-xs font-semibold">VIEWS &amp; EVENTS</div>
                             <div class="text-[#3f3f3f] text-xs">
                                 <strong>10,000 Monthly </strong>
                                 Total Views and Events Across All
                                 Websites
                             </div>
-                            <div class="text-[#202020] text-xs font-semibold">CONNECTED&nbsp;WEBSITES</div>
+                            <div class="text-[#202020] text-xs font-semibold">CONNECTED WEBSITES</div>
                             <div class="text-[#3f3f3f] text-xs">Track up to <strong>10 Websites</strong></div>
-                            <div class="text-[#202020] text-xs font-semibold">TEAM&nbsp;ACCESS</div>
+                            <div class="text-[#202020] text-xs font-semibold">TEAM ACCESS</div>
                             <div class="text-[#3f3f3f] text-xs">Share your dashboard link with clients or team members.</div>
                         </div>
                     </div>
@@ -66,17 +66,17 @@
                     </div>
                     <div class="p-4">
                         <div class="flex flex-col gap-4">
-                            <div class="text-[#202020] text-xs font-semibold">VIEWS&nbsp;&amp;&nbsp;EVENTS</div>
+                            <div class="text-[#202020] text-xs font-semibold">VIEWS &amp; EVENTS</div>
                             <div class="text-[#3f3f3f] text-xs">
                                 <strong>10,000 Monthly </strong>
                                 Total Views and Events Across All
                                 Websites
                             </div>
-                            <div class="text-[#202020] text-xs font-semibold">CONNECTED&nbsp;WEBSITES</div>
+                            <div class="text-[#202020] text-xs font-semibold">CONNECTED WEBSITES</div>
                             <div class="text-[#3f3f3f] text-xs">Track up to <strong>50 Websites</strong></div>
                             <div class="text-[#202020] text-xs font-semibold">SPLIT TESTING</div>
                             <div class="text-[#3f3f3f] text-xs"><strong>1 Active Test</strong>/Month, <strong>3 Total Tests</strong>/Month</div>
-                            <div class="text-[#202020] text-xs font-semibold">TEAM&nbsp;ACCESS</div>
+                            <div class="text-[#202020] text-xs font-semibold">TEAM ACCESS</div>
 
                             <div class="text-[#3f3f3f] text-xs">Share your dashboard link with clients or team members.</div>
                         </div>
@@ -103,17 +103,17 @@
                     </div>
                     <div class="p-4">
                         <div class="flex flex-col gap-4">
-                            <div class="text-[#202020] text-xs font-semibold">VIEWS&nbsp;&amp;&nbsp;EVENTS</div>
+                            <div class="text-[#202020] text-xs font-semibold">VIEWS &amp; EVENTS</div>
                             <div class="text-[#3f3f3f] text-xs">
                                 <strong>500,000 Monthly </strong>
                                 Total Views and Events Across All
                                 Websites
                             </div>
-                            <div class="text-[#202020] text-xs font-semibold">CONNECTED&nbsp;WEBSITES</div>
+                            <div class="text-[#202020] text-xs font-semibold">CONNECTED WEBSITES</div>
                             <div class="text-[#3f3f3f] text-xs">Track up to <strong>100 Websites</strong></div>
                             <div class="text-[#202020] text-xs font-semibold">SPLIT TESTING</div>
                             <div class="text-[#3f3f3f] text-xs"><strong>5 Active Test</strong>/Month, <strong>25 Total Tests</strong>/Month</div>
-                            <div class="text-[#202020] text-xs font-semibold">TEAM&nbsp;ACCESS</div>
+                            <div class="text-[#202020] text-xs font-semibold">TEAM ACCESS</div>
                             <div class="text-[#3f3f3f] text-xs">Share your dashboard link with clients or team members.</div>
                         </div>
                     </div>
@@ -136,10 +136,10 @@
                     <div class="pricing-elements">
                         <div class="pricing-element-wrapper horizantal">
                             <div class="w-layout-vflex price-items-v-wrapper">
-                                <div class="pricing-line-category">VIEWS&nbsp;&amp;&nbsp;EVENTS</div>
+                                <div class="pricing-line-category">VIEWS &amp; EVENTS</div>
                                 <div class="pricing-line-item"><strong>1,000 Lifetime Limit </strong>Total Views and Events</div>
                             </div><div class="price-items-v-wrapper">
-                                <div class="pricing-line-category">CONNECTED&nbsp;WEBSITES</div>
+                                <div class="pricing-line-category">CONNECTED WEBSITES</div>
                                 <div class="pricing-line-item">Track up to <strong>1 Website</strong></div>
                             </div>
                         </div>

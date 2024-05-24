@@ -1,5 +1,5 @@
 <footer class="w-full">
-    <div class="text-[#333] py-4 px-10">=
+    <div class="text-[#333] py-4 px-10">
         <div class="w-full max-w-[75rem] mx-auto">
             <div class="flex flex-row gap-4 justify-between items-start">
                 <div class="flex flex-col items-start justify-start gap-4">
@@ -12,7 +12,7 @@
                 <div class="flex flex-col items-start justify-start gap-4">
                     <div class="text-sm font-medium">Tools</div>
                     <div class="flex flex-col gap-3">
-                        <a class="text-[#1a1b1f] text-xs">UTM&nbsp;Link Generator</a>
+                        <a class="text-[#1a1b1f] text-xs">UTM Link Generator</a>
                         <a class="text-[#1a1b1f] text-xs">A/B Split Test Sample Size Calculator</a>
                     </div>
                 </div>
@@ -26,7 +26,7 @@
                 <div class="flex flex-col items-start justify-start gap-4">
                     <div class="text-sm font-medium">Help</div>
                     <div class="flex flex-col gap-3">
-                        <a class="text-[#1a1b1f] text-xs">Support &amp;&nbsp;Feedback</a>
+                        <a class="text-[#1a1b1f] text-xs">Support &amp; Feedback</a>
                     </div>
                 </div>
                 <div class="flex flex-col items-start justify-start gap-4">
