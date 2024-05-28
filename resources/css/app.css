@@ -2,11 +2,14 @@
 @tailwind components;
 @tailwind utilities;
 
-.header-container {
+.container1 {
     @apply max-w-[100%] px-3 mx-auto sm:max-w-[540px] md:max-w-[720px] lg:max-w-[960px] xl:max-w-[1140px] 2xl:max-w-[1320px];
 }
+.container2 {
+    @apply w-full mx-auto lg:max-w-[65rem] md:max-w-[45rem] sm:max-w-[35rem] max-sm:px-5;
+}
 .container {
-    @apply w-full mx-auto lg:max-w-[65rem];
+    @apply w-full max-w-[100%] mx-auto lg:max-w-[1024px] lg:px-8 md:max-w-[45rem] sm:max-w-[35rem] max-sm:px-5;
 }
 .header-transform1{
     transform-style: preserve-3d;

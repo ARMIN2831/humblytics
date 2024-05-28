@@ -1,7 +1,7 @@
 <section class="container max-w-[50rem] pt-12 mt-16 pb-24">
-    <div class="py-4 px-8 mx-auto w-full max-w-[50rem] bg-[#fcfcfc] rounded-xl pb-16">
-        <div class="mb-8 flex flex-row gap-1 items-center">
-            <a class="text-[#202020] text-sm font-semibold flex justify-center items-center">All Guides</a>
+    <div class="py-4 px-2 lg:px-8 mx-auto w-full max-w-[50rem] bg-[#fcfcfc] rounded-xl pb-16">
+        <div class="mb-8 flex flex-wrap gap-1 items-center">
+            <a class="text-[#202020] text-xs lg:text-sm font-semibold flex justify-center items-center">All Guides</a>
             <div class="flex justify-center items-center w-4 h-4">
                 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true"
                      role="img" class="iconify iconify--ic" width="100%" height="100%"
@@ -9,15 +9,15 @@
                     <path fill="currentColor" d="M8.59 16.59L13.17 12L8.59 7.41L10 6l6 6l-6 6l-1.41-1.41z"></path>
                 </svg>
             </div>
-            <div class="text-[#3f3f3f] text-sm">How to Add Framer Analytics to Your Website</div>
+            <div class="text-[#3f3f3f] text-xs lg:text-sm">How to Add Framer Analytics to Your Website</div>
         </div>
 
-        <div class="w-full h-[400px] bg-center bg-no-repeat object-contain bg-[length:736px_400px]"
+        <div class="w-full h-[400px] bg-center bg-no-repeat object-contain max-sm:bg-[length:450px_350px] bg-[length:736px_400px]"
              style="background-image: url({{ asset('assets/photos/Gframer1.png') }})"></div>
 
         <div class="flex flex-col w-full items-start">
-            <h1 class="text-[#202020] font-medium text-2xl">How to Add Framer Analytics to Your Website</h1>
-            <div class="flex items-center text-[#3f3f3f] text-sm mt-4">
+            <h1 class="text-[#202020] font-medium text-lg lg:text-2xl">How to Add Framer Analytics to Your Website</h1>
+            <div class="flex items-center text-[#3f3f3f] text-sm lg:mt-4">
                 <div class="text-xs">Published on</div>
                 <div class="ml-1 text-[#3f3f3f] text-xs text-left">May 1, 2024</div>
             </div>

@@ -1,7 +1,7 @@
 <footer class="w-full">
-    <div class="text-[#333] py-4 px-10">
+    <div class="text-[#333] py-4 px-5 lg:px-10">
         <div class="w-full max-w-[75rem] mx-auto">
-            <div class="flex flex-row gap-4 justify-between items-start">
+            <div class="flex flex-col gap-12 lg:flex-row lg:gap-4 md:flex-row md:gap-4 justify-between items-start">
                 <div class="flex flex-col items-start justify-start gap-4">
                     <div class="text-sm font-medium">Product</div>
                     <div class="flex flex-col gap-3">

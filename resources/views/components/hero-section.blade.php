@@ -1,7 +1,7 @@
 <section class="container pt-10 animate-slideUpAnimate">
     <div class="border border-[#f0f0f0] w-full bg-[#fcfcfc] text-center delay-0 rounded-t-[2rem] rounded-b-md">
-        <div class="pt-8 px-16 flex flex-col gap-2 items-center">
-            <div class="border border-[#f0f0f0] flex flex-row gap-2 bg-white justify-center items-center rounded-full  mb-4 py-1 px-2.5">
+        <div class="pt-6 px-2 lg:pt-8 lg:px-16 flex flex-col gap-2 items-center">
+            <div class="max-sm:hidden border border-[#f0f0f0] flex flex-row gap-2 bg-white justify-center items-center rounded-full  mb-4 py-1 px-2.5">
                 <div class="bg-[#fb6] rounded-full w-3 h-3 flex relative justify-center items-center">
                     <div class="bg-[#ff7a00] w-2 h-2 rounded-full"></div>
                 </div>
@@ -11,9 +11,9 @@
                 </div>
             </div>
             <div class="flex flex-col justify-center items-center gap-4 max-w-[45rem]">
-                <h1 class="text-4xl text-[#202020] font-medium">Simple, Privacy-Friendly Analytics for Webflow and Framer</h1>
+                <h1 class="text-4xl max-sm:text-2xl text-[#202020] font-medium">Simple, Privacy-Friendly Analytics for Webflow and Framer</h1>
 
-                <p class="text-[#3f3f3f] max-w-[35rem] text-center">
+                <p class="text-[#3f3f3f] max-w-[35rem] text-center max-lg:text-sm">
                     <span class="text-[#ff7a00] font-medium">Track</span>
                     custom events,
                     <span class="text-[#ff7a00] font-medium">increase</span>
@@ -33,7 +33,7 @@
                 <div class="text-[#3f3f3f] text-left mt-1 text-xs font-medium max-w-[12rem]">1K+ Webflow &amp; Framer Experts Track with Humblytics</div>
             </div>
             <div class="flex flex-col">
-                <div class="flex flex-row gap-4">
+                <div class="flex  flex-col lg:flex-row md:flex-row gap-4">
                     <a class="cursor-pointer py-3 px-6 border border-[#f0f0f0] rounded-lg text-sm font-medium">View Live Demo</a>
                     <a class="cursor-pointer py-3 px-6 border border-[#f0f0f0] rounded-lg text-sm font-medium bg-[#ff7a00] text-white hover:bg-[#ff712a] hover:shadow-inset2">Start Your Free Trial</a>
                 </div>
@@ -46,20 +46,20 @@
         </div>
     </div>
     <div class="flex flex-row gap-4 mt-4 justify-center items-center w-full">
-        <div class="flex flex-row justify-around pt-6 pb-5 w-full">
-            <a target="_blank" class="t-logo-link w-inline-block">
+        <div class="grid justify-around grid-cols-2 lg:flex lg:flex-row md:grid md:grid-cols-3 max-lg:gap-8 max-lg:justify-center max-lg:items-center pt-6 pb-5 w-full">
+            <a target="_blank" class="flex justify-center">
                 <img src="{{ asset('assets/photos/hero1.svg') }}" class="w-32 h-8 mt-1 brightness-[10%]">
             </a>
-            <a target="_blank" class="t-logo-link w-inline-block">
+            <a target="_blank" class="flex justify-center">
                 <img src="{{ asset('assets/photos/hero2.svg') }}" class="w-32 h-8 mt-1 brightness-[30%]">
             </a>
-            <a target="_blank" class="t-logo-link w-inline-block">
+            <a target="_blank" class="flex justify-center">
                 <img src="{{ asset('assets/photos/hero3.svg') }}" class="w-32 h-8 mt-1 brightness-[30%]">
             </a>
-            <a target="_blank" class="t-logo-link w-inline-block">
+            <a target="_blank" class="flex justify-center">
                 <img src="{{ asset('assets/photos/hero4.png') }}" sizes="(max-width: 479px) 38vw, (max-width: 991px) 96px, 128px" class="w-32 h-8 mt-1 brightness-[30%]">
             </a>
-            <a target="_blank" class="t-logo-link w-inline-block">
+            <a target="_blank" class="flex justify-center max-sm:hidden">
                 <img src="{{ asset('assets/photos/hero5.webp') }}" class="w-32 h-8 mt-1 brightness-[5%]">
             </a>
         </div>

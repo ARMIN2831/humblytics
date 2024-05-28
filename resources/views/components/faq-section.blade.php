@@ -1,13 +1,13 @@
 <section class="container pt-12 mt-16 pb-24">
 
     <div class="flex flex-col gap-16 justify-center items-center">
-        <div class="flex flex-row justify-between w-full">
+        <div class="flex flex-col lg:flex-row justify-between w-full">
             <div class="flex flex-col gap-2">
-                <h2 class="text-[#202020] text-4xl font-medium">Frequently Asked Questions</h2>
-                <p class="text-xl text-[#3f3f3f]">Don't see the answer you're looking for? Get in touch.</p>
+                <h2 class="text-[#202020] text-4xl max-sm:text-2xl max-sm:text-3xl font-medium">Frequently Asked Questions</h2>
+                <p class="text-lg max-sm:text-sm text-[#3f3f3f]">Don't see the answer you're looking for? Get in touch.</p>
             </div>
-            <div class="flex justify-center items-center">
-                <a class="border border-[#f0f0f0] text-black bg-white rounded-lg py-3 px-6 text-sm font-medium hover:shadow-inset4 hover:bg-[#fdfdfd]">Contact us</a>
+            <div class="flex justify-center items-center max-lg:w-full max-lg:mt-4">
+                <a class="max-lg:w-full text-center border border-[#f0f0f0] text-black bg-white rounded-lg py-3 px-6 text-sm font-medium hover:shadow-inset4 hover:bg-[#fdfdfd]">Contact us</a>
             </div>
         </div>
         <div class="mt-16 w-full">

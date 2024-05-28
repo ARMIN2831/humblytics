@@ -2,6 +2,7 @@
     @include('components.header')
     @include('components.hero-section')
     @include('components.track-section')
+    @include('components.people-section')
     @include('components.leading-framer-section')
     @include('components.pricing-plans-section')
     @include('components.faq-section')
