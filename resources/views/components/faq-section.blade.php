@@ -25,7 +25,7 @@
                     <div :class="{ 'h-[72px]': isOpen , 'h-[0px]': !isOpen }" class="w-full px-6 overflow-hidden transition transition-all duration-300">
                         <div class="mb-6">
                             <div class="w-full max-w-[48rem]">
-                                <p class="text-[#383838] font-sm">
+                                <p class="text-[#383838] font-sm max-sm:text-xs">
                                     As you approach 75% of your plan limit, we'll send you an email alert. Once you go past your plan limit, you will have a
                                     <span class="text-[#333] font-semibold">3 day grace </span>
                                     period to upgrade before we stop tracking.
@@ -47,7 +47,7 @@
                     <div :class="{ 'h-[48px]': isOpen , 'h-[0px]': !isOpen }" class="w-full px-6 overflow-hidden transition transition-all duration-300">
                         <div class="mb-6">
                             <div class="w-full max-w-[48rem]">
-                                <p class="text-[#383838] font-sm">
+                                <p class="text-[#383838] font-sm max-sm:text-xs">
                                     The plan limits apply for
                                     <span class="text-[#333] font-semibold">ALL websites </span>
                                     connected at an account level.
@@ -66,10 +66,10 @@
                             </div>
                         </div>
                     </div>
-                    <div :class="{ 'h-[138px]': isOpen , 'h-[0px]': !isOpen }" class="w-full px-6 overflow-hidden transition transition-all duration-300">
+                    <div :class="{ 'h-[138px] max-lg:h-[160px]': isOpen , 'h-[0px]': !isOpen }" class="w-full px-6 overflow-hidden transition transition-all duration-300">
                         <div class="mb-6">
                             <div class="w-full max-w-[48rem]">
-                                <p class="text-[#383838] font-sm">
+                                <p class="text-[#383838] font-sm max-sm:text-xs">
                                     Our analytics collection process doesn't store or read cookies, local storage data, or persistent information on client devices or browsers. Unique users are anonymized through hashing their IP address and device characteristics (e.g., browser version, operating system, hardware information). Original IP addresses are discarded permanently post-hash generation. Device characteristics are grouped into higher-order categories (e.g., browser type, device type).
                                 </p>
                             </div>
@@ -89,7 +89,7 @@
                     <div :class="{ 'h-[94px]': isOpen , 'h-[0px]': !isOpen }" class="w-full px-6 overflow-hidden transition transition-all duration-300">
                         <div class="mb-6">
                             <div class="w-full max-w-[48rem]">
-                                <p class="text-[#383838] font-sm">
+                                <p class="text-[#383838] font-sm max-sm:text-xs">
                                     We're not
                                     <span class="text-[#333] font-semibold">fully GDPR compliant yet </span>
                                     , but we're striving to work towards EU regulations and compliance requirements. If you'd like to use Humblytics when we're GDPR compliant, send us an email (support@humblytics.com) and we'll be happy to notify you when we are.
@@ -111,7 +111,7 @@
                     <div :class="{ 'h-[70px]': isOpen , 'h-[0px]': !isOpen }" class="w-full px-6 overflow-hidden transition transition-all duration-300">
                         <div class="mb-6">
                             <div class="w-full max-w-[48rem]">
-                                <p class="text-[#383838] font-sm">
+                                <p class="text-[#383838] font-sm max-sm:text-xs">
                                     We don't use cookies to track your visitor information removing the need to cookie consent banners.
                                     You can learn more about our data policy and how it works
                                     <span class="text-[#333] font-semibold underline">here.</span>
